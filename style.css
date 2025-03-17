@@ -1,0 +1,6 @@
+#videoContainer video,
+#videoContainer canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
